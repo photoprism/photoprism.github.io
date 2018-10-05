@@ -1,0 +1,17 @@
+node_modules/*
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.glide/
+ehthumbs.db
+Thumbs.db
+.heartbeat
+.idea
+*~
+.goutputstream*
+.c9revisions
+.settings
+.swp
+.tmp
