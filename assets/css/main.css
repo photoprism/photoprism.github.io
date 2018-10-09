@@ -1165,6 +1165,16 @@ input, select, textarea {
 
 /* Sections/Article */
 
+	section a {
+		color: #39454b;
+		text-decoration: none;
+		text-shadow:
+			-3px 0px 3px rgba(255, 255, 0, 0.5),
+			3px 0px 3px rgba(255, 255, 0, 0.5),
+			6px 0px 6px rgba(255, 255, 0, 0.5),
+			-6px 0px 6px rgba(255, 255, 0, 0.5);
+	}
+
 	header {
 		margin-bottom: 1em;
 	}
@@ -2265,11 +2275,6 @@ input, select, textarea {
 		overflow: hidden;
 		padding-bottom: 0;
 	}
-
-		#contact a {
-			color: #39454b;
-			text-decoration: none;
-		}
 
 		#contact .box {
 			-moz-transition: -moz-transform 1s ease;
