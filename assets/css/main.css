@@ -664,7 +664,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgb(78, 101, 107);
+		background-color: rgb(86, 99, 105);
 		border: 0;
 		border-radius: 1em;
 		color: #ffffff;
@@ -720,7 +720,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		.button:hover,
 		button:hover {
-			background-color: rgb(100, 134, 140);
+			background-color: rgb(105, 119, 125);
 		}
 
 		input[type="button"]:active,
@@ -728,7 +728,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		.button:active,
 		button:active {
-			background-color: rgb(78, 101, 107);
+			background-color: rgb(105, 119, 125);
 		}
 
 		input[type="button"].style2,
