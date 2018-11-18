@@ -740,6 +740,7 @@ input, select, textarea {
 			background-color: transparent;
 			border: solid 2px #e5e6e7;
 			color: inherit;
+            border-radius: 3.5em;
 		}
 
 			input[type="button"].style2:hover,
