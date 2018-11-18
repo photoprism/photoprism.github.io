@@ -664,7 +664,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgb(86, 99, 105);
+		background-color: #707777;
 		border: 0;
 		border-radius: 1em;
 		color: #ffffff;
@@ -676,6 +676,7 @@ input, select, textarea {
 		padding: 0 1em 0 1em;
 		position: relative;
 		text-align: center;
+        font-weight: normal;
 	}
 
 		input[type="button"].down,
@@ -720,7 +721,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		.button:hover,
 		button:hover {
-			background-color: rgb(105, 119, 125);
+			background-color: #505555;
 		}
 
 		input[type="button"]:active,
@@ -728,7 +729,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		.button:active,
 		button:active {
-			background-color: rgb(105, 119, 125);
+			background-color: #505555;
 		}
 
 		input[type="button"].style2,
@@ -2173,7 +2174,7 @@ input, select, textarea {
 		margin: 0;
 		line-height: 1em;
 		padding: 1.5em;
-		background: #39454b;
+		background: #303333;
 		color: rgba(185, 186, 187, 0.5);
 		overflow: hidden;
 	}
